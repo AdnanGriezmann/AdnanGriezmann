@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Griezmann</h1>
-<h3 align="center">Flutter Software Engineer </></h3>
+<h3 align="center">DEVOPS ENGINEER </></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnangriezmann&label=Profile%20views&color=0e75b6&style=flat" alt="adnangriezmann" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsx__adnan" target="blank"><img src="https://img.shields.io/twitter/follow/itsx__adnan?logo=twitter&style=for-the-badge" alt="itsx__adnan" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DEVOPS CLOUD**
 
 - 📫 How to reach me **adnangrizemann7@gmail.com**
 
